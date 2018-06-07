@@ -3,6 +3,8 @@
 
 > Credit : FIFA https://www.fifa.com
 
+![rankings](https://github.com/iamatulsingh/InternationalTeamRanking/blob/master/rankings.png)
+
 ## how to use?
 install all required libraries using following command from your project directory
 ```pip install -r requirements.txt```
